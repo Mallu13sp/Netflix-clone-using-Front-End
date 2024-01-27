@@ -28,7 +28,7 @@ Link to live demo
 Prerequisites
 Web browser (Chrome, Firefox, Safari, etc.)
 Installation
-Clone the repository: git clone https://github.com/your-username/netflix-clone.git
+Clone the repository: git clone [https://github.com/Mallu13sp/Netflix-clone-using-Front-End.git]
 Open index.html in your web browser.
 
 Usage
