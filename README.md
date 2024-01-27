@@ -46,11 +46,11 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 5. Submit a pull request.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License]().
 
 ## Acknowledgments
-Inspiration: Netflix
-Images and content: Netflix
+Inspiration: Netflix 
+Images and content: [Netflix](https://www.netflix.com/)
 
 ## Contact
 For any inquiries or feedback, please contact mallikarjunphatate@gmail.com.
