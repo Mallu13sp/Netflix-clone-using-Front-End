@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Netflix India – Watch TV Shows Online, Watch Movies Online</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <script src="script.js" defer></script>
+  </head>
+  <body>
+    <!-- main start -->
+    <div class="main">
+      <nav>
+        <span><img width="100" src="assests/svg/logo.svg" alt="logo" /></span>
+        <div class="last-two">
+          <div class="btn-lang">
+            <div class="i1"><img src="assests/svg/lang.svg" alt="lang" /></div>
+            <select name="language" id="language">
+              <option value="English">English</option>
+              <option value="Hindi">हिंदी</option>
+            </select>
+            <div class="i2">
+              <img src="assests/svg/down.svg" alt="down-arrow" />
+            </div>
+          </div>
+          <div>
+            <button onclick="openNewPage1()" class="btn-red-sm">Sign In</button>
+          </div>
+        </div>
+      </nav>
+      <div class="box"></div>
+      <div class="hero">
+        <span>Unlimited movies, TV shows and more</span>
+        <span>Watch anywhere. Cancel anytime.</span>
+        <span
+          >Ready to watch? Enter your email to create or restart your
+          membership.</span
+        >
+        <div>
+          <input type="email" placeholder="Email Address" />
+          <button onclick="openNewPage2()" class="btn-red">
+            Get Started >
+          </button>
+        </div>
+      </div>
+    </div>
+    <!-- main end -->
+    <div class="seperation"></div>
+    <!-- first start -->
+    <section>
+      <div class="first">
+        <div class="para">
+          <h2>Enjoy on your TV</h2>
+          <p>
+            Watch on smart TVs, PlayStation, Xbox, Chromecast, Apple TV, Blu-ray
+            players and more.
+          </p>
+        </div>
+        <div class="sec-img">
+          <img src="assests/images/tv.png" alt="tv" />
+          <video src="assests/videos/video-tv.m4v" autoplay loop muted></video>
+        </div>
+      </div>
+    </section>
+    <!-- first end -->
+    <div class="seperation"></div>
+    <!-- second start -->
+    <section>
+      <div class="first">
+        <div class="sec-img">
+          <img src="assests/images/mobile.jpg" alt="elven" />
+          <div class="extra">
+            <div><img width="60" src="assests/images/st.png" alt="st" /></div>
+            <div>
+              <div style="font-size: 16px">Stranger Things</div>
+              <div style="color: #0071eb; font-size: 14px">Downloading...</div>
+            </div>
+            <div>
+              <img
+                width="60"
+                src="assests/images/download-icon.gif"
+                alt="gif"
+              />
+            </div>
+          </div>
+        </div>
+        <div class="para">
+          <h2>Download your shows to watch offline</h2>
+          <p>Save your favourites easily and always have something to watch.</p>
+        </div>
+      </div>
+    </section>
+    <!-- second end -->
+    <div class="seperation"></div>
+    <!-- third start -->
+    <section>
+      <div class="first">
+        <div class="para">
+          <h2>Watch everywhere</h2>
+          <p>
+            Stream unlimited movies and TV shows on your phone, tablet, laptop,
+            and TV.
+          </p>
+        </div>
+        <div class="sec-img">
+          <img src="assests/images/mac.png" alt="tv" />
+          <video
+            class="mac-video"
+            src="assests/videos/video-mac.m4v"
+            autoplay
+            loop
+            muted
+          ></video>
+        </div>
+      </div>
+    </section>
+    <!-- third end -->
+    <div class="seperation"></div>
+    <!-- fourth start -->
+    <section>
+      <div class="first">
+        <div class="sec-img">
+          <img src="assests/images/child.png" alt="child" />
+        </div>
+        <div class="para">
+          <h2>Create profiles for kids</h2>
+          <p>
+            Send children on adventures with their favourite characters in a
+            space made just for them—free with your membership.
+          </p>
+        </div>
+      </div>
+    </section>
+    <!-- fourth end -->
+    <div class="seperation"></div>
+    <!-- faq start -->
+    <section>
+      <div class="faq">
+        <div><h2>Frequently Asked Questions</h2></div>
+        <div class="faq-box">
+          <span>What is Netflix?</span
+          ><img src="assests/svg/plus.svg" alt="plus" />
+        </div>
+        <div class="faq-box">
+          <span>How much does Netflix cost?</span
+          ><img src="assests/svg/plus.svg" alt="plus" />
+        </div>
+        <div class="faq-box">
+          <span>Where can I watch?</span
+          ><img src="assests/svg/plus.svg" alt="plus" />
+        </div>
+        <div class="faq-box">
+          <span>How do I cancel?</span
+          ><img src="assests/svg/plus.svg" alt="plus" />
+        </div>
+        <div class="faq-box">
+          <span>What can I watch on Netflix?</span
+          ><img src="assests/svg/plus.svg" alt="plus" />
+        </div>
+        <div class="faq-box">
+          <span>Is Netflix good for kids?</span
+          ><img src="assests/svg/plus.svg" alt="plus" />
+        </div>
+        <div class="hero">
+          <span></span>
+          <span></span>
+          <span
+            >Ready to watch? Enter your email to create or restart your
+            membership.</span
+          >
+          <div>
+            <input type="email" placeholder="Email Address" />
+            <button onclick="openNewPage2()" class="btn-red">
+              Get Started >
+            </button>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- faq end -->
+    <div class="seperation"></div>
+    <!-- footer start -->
+    <footer>
+      <div class="help">
+        <div class="question" style="font-size: 16px">
+          Questions? Call
+          <a href="https://www.netflix.com/in/tel:000-800-919-1694"
+            >000-800-919-1694</a
+          >
+        </div>
+        <div class="list-table">
+          <ul>
+            <li>
+              <a role="link" href="https://help.netflix.com/support/412">FAQ</a>
+            </li>
+            <li>
+              <a role="link" href="https://help.netflix.com">Help Centre</a>
+            </li>
+            <li><a role="link" href="/youraccount">Account</a></li>
+            <li>
+              <a role="link" href="https://media.netflix.com/">Media Centre</a>
+            </li>
+            <li>
+              <a role="link" href="http://ir.netflix.com/"
+                >Investor Relations</a
+              >
+            </li>
+            <li>
+              <a role="link" href="https://jobs.netflix.com/jobs">Jobs</a>
+            </li>
+            <li><a role="link" href="/watch">Ways to Watch</a></li>
+            <li>
+              <a role="link" href="https://help.netflix.com/legal/termsofuse"
+                >Terms of Use</a
+              >
+            </li>
+            <li>
+              <a role="link" href="https://help.netflix.com/legal/privacy"
+                >Privacy</a
+              >
+            </li>
+            <li><a role="link" href="#">Cookie Preferences</a></li>
+            <li>
+              <a role="link" href="https://help.netflix.com/legal/corpinfo"
+                >Corporate Information</a
+              >
+            </li>
+            <li>
+              <a role="link" href="https://help.netflix.com/contactus"
+                >Contact Us</a
+              >
+            </li>
+            <li><a role="link" href="https://fast.com">Speed Test</a></li>
+            <li>
+              <a role="link" href="https://help.netflix.com/legal/notices"
+                >Legal Notices</a
+              >
+            </li>
+            <li>
+              <a
+                role="link"
+                href="https://www.netflix.com/in/browse/genre/839338"
+                >Only on Netflix</a
+              >
+            </li>
+          </ul>
+        </div>
+        <div>
+          <div class="btn-lang">
+            <div class="i1"><img src="assests/svg/lang.svg" alt="lang" /></div>
+            <select name="language" id="language">
+              <option value="English">English</option>
+              <option value="Hindi">हिंदी</option>
+            </select>
+            <div class="i2">
+              <img src="assests/svg/down.svg" alt="down-arrow" />
+            </div>
+          </div>
+        </div>
+        <div class="last-line">Netflix India</div>
+      </div>
+    </footer>
+    <!-- footer end -->
+  </body>
+</html>
