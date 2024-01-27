@@ -25,29 +25,32 @@ Link to live demo
 
 
 ## Getting Started
-Prerequisites
+### Prerequisites
 Web browser (Chrome, Firefox, Safari, etc.)
-Installation
-Clone the repository: git clone [https://github.com/Mallu13sp/Netflix-clone-using-Front-End.git]
-Open index.html in your web browser.
 
-Usage
+### Installation
+Clone the repository: `git clone https://github.com/Mallu13sp/Netflix-clone-using-Front-End.git`
+Open `index.html` in your web browser.
+
+## Usage
 Explore the Netflix clone and interact with the various elements.
 Click on movie cards to see more details.
-Contributing
+
+## Contributing
 Contributions are welcome! If you'd like to contribute, please follow these steps:
 
-Fork the repository.
-Create a new branch: git checkout -b feature/new-feature.
-Make your changes and commit them: git commit -m 'Add new feature'.
-Push to the branch: git push origin feature/new-feature.
-Submit a pull request.
+1. Fork the repository.
+2. Create a new branch: `git checkout -b feature/new-feature`.
+3. Make your changes and commit them: `git commit -m 'Add new feature'`.
+4. Push to the branch: `git push origin feature/new-feature`.
+5. Submit a pull request.
 
-License
+## License
 This project is licensed under the MIT License.
 
-Acknowledgments
+## Acknowledgments
 Inspiration: Netflix
 Images and content: Netflix
-Contact
-For any inquiries or feedback, please contact your-email@example.com.
+
+## Contact
+For any inquiries or feedback, please contact mallikarjunphatate@gmail.com.
