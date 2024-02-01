@@ -12,7 +12,7 @@ Footer with social media links.
 
 ## Demo
 
-Link to live demo
+[Demo Link](https://netflix-clone-front-end-only.web.app/)
 
 ## Screenshots
 ![image](https://github.com/Mallu13sp/Netflix-clone-using-Front-End/assets/112100271/a61b9b6f-d221-4c73-b7e6-6b156245a993)
