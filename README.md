@@ -12,6 +12,7 @@ Footer with social media links.
 
 ## Demo video
 
+https://github.com/Mallu13sp/Netflix-clone-using-Front-End/assets/112100271/91ed6c99-b96e-447b-9144-233c2756764a
 
 ## Demo
 
