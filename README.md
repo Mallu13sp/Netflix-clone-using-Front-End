@@ -10,6 +10,9 @@ Navigation bar with dropdown menus.
 Interactive movie cards with hover effects.
 Footer with social media links.
 
+## Demo video
+
+
 ## Demo
 
 [Demo Link](https://netflix-clone-front-end-only.web.app/)
